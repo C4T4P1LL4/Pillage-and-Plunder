@@ -1,7 +1,9 @@
 Requires Youtube DL which requires FFMpeg. 
 colors.txt is required for the graphic. I found that I couldn't hard code it into the batch script without issues so just get the ascii art from the file. 
 I believe it needs to be in the same folder as the script. 
-I just put the script in my youtube dl folder and it just works.
-
+I just put the script in my youtube-dl folder and it just works.
 Files are stored in a Folder called BOOTY in the same directory as the script.
+You can then rename the folders for instance if you are getting an entire playlist just copy paste the name over the BOOTY folder and youre golden.
+
+Pro tip: You can go to a channel > go to uploads > then copy the link of the playlist and now you can download the entire channels uploads as a playlist. Video or Audio of course.
 
