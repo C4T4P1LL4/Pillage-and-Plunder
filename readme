@@ -1,5 +1,7 @@
-Requires Youtube DL which requires FFMpeg.
+Requires Youtube DL which requires FFMpeg. 
+colors.txt is required for the graphic. I found that I couldn't hard code it into the batch script without issues so just get the ascii art from the file. 
 I believe it needs to be in the same folder as the script. 
 I just put the script in my youtube dl folder and it just works.
 
 Files are stored in a Folder called BOOTY in the same directory as the script.
+
